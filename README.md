@@ -30,3 +30,8 @@ O MVP foca nos recursos básicos que garantem o uso inicial e a aceitação do p
 
 
 
+Wireframes no figma : https://www.figma.com/design/62zmsEbWyXz7rRkZPa9QVr/Navegue---master?node-id=5-2
+
+Canva no Miro : https://miro.com/app/board/uXjVL3LkYXU=/
+
+Video do MVP : https://youtu.be/ot4mudvJNx4
