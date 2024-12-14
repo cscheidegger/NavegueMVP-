@@ -28,7 +28,5 @@ Experiência Confiável: Atualizações instantâneas e funcionalidades como com
 Visão de Futuro
 O MVP foca nos recursos básicos que garantem o uso inicial e a aceitação do público, como localização de embarcadouros e visualização de rotas. No futuro, pretende-se expandir para funcionalidades avançadas, como publicidade geolocalizada, sistema de avaliação de operadores e integração com serviços de turismo.
 
-Neste repositório você vai encontrar:
 
-Bem-vindo ao repositório do projeto **Navegue**, um aplicativo focado em otimizar o transporte hidroviário e integrar modais para usuários urbanos e periurbanos. Este repositório contém todos os artefatos necessários para o desenvolvimento do MVP.
 
